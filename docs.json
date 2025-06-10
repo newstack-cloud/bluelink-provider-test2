@@ -1,11 +1,11 @@
 {
-    "id": "two-hundred/test2",
+    "id": "newstack-cloud/test2",
     "displayName": "AWS2",
     "version": "1.0.0",
     "protocolVersions": ["1.0"],
     "description": "A second AWS provider for the Deploy Engine including resources, data sources, links and custom variable types for interacting with AWS services.",
-    "author": "Two Hundred Cloud Services Ltd",
-    "repository": "https://github.com/two-hundred/celerity-provider-aws",
+    "author": "NewStack Cloud Limited",
+    "repository": "https://github.com/newstack-cloud/celerity-provider-aws",
     "config": {
         "accessKeyId": {
             "type": "string",
