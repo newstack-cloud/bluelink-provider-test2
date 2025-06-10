@@ -1,7 +1,7 @@
 {
     "id": "newstack-cloud/test2",
     "displayName": "AWS2",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "protocolVersions": ["1.0"],
     "description": "A second AWS provider for the Deploy Engine including resources, data sources, links and custom variable types for interacting with AWS services.",
     "author": "NewStack Cloud Limited",
